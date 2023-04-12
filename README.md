@@ -5,4 +5,4 @@ Install the below dependencies
 1. pip3 install bs4
 2. pip3 install requests
 
-Run using sudo ./poetryHttpsServer
+Run using sudo ./poetryHttps.py
